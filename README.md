@@ -52,7 +52,7 @@ GPT-4o is known to favor “Rock”  — dubbed “Doraemon” bias by some peop
 3. **Create .env file and set your API key**
 
    ```bash
-   echo "OPENAI_API_KEY=sk-..." > .env
+   OPENAI_API_KEY=sk-...
    ```
 
 4. **Run the experiment**
