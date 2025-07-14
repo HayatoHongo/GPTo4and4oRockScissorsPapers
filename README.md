@@ -6,7 +6,7 @@ This repository reproduces the observation that pure LLM (here, GPT-4o and o4-mi
 
 ## Experiment Overview
 
-- **Models tested**: `gpt-4o`, `o4-mini`
+- **Models tested**: `gpt-4o`, `o4-mini` (2025/7/14. Model gets frequent updates, so the result is likely to change in the future.)
 - **Trials per model**: 100
 - **Prompt**:  
 
